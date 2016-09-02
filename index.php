@@ -1,5 +1,5 @@
 <?php
-
+//Trabajando con Git
 $diccionario = array(
     'subtitle' => array(
         VIEW_SET_SERVICIO => 'Dar de alta un servicio',
